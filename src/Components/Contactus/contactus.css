@@ -1,0 +1,34 @@
+@media (max-width: 500px) {
+  .imagefield {
+  }
+}
+.container-fluid {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* If you need padding inside container-fluid, add an inner wrapper */
+.container-fluid-inner {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Fix for nested container-fluid */
+.container-fluid .container-fluid {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Make sure row doesn't inherit unwanted margins */
+.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.form-alignment {
+  text-align: left;
+}

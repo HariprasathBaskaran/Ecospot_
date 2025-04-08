@@ -1,0 +1,22 @@
+@media (min-width: 992px) {
+  .container-fluid {
+    max-width: 60%;
+  }
+  .img-fluid {
+    max-width: 300px;
+    max-height: 520px;
+  }
+}
+
+@media (max-width: 767px) {
+  .col-md-6.d-none {
+    display: none !important;
+  }
+}
+.img-fluid {
+  margin: 0px 0px 0px 0px;
+}
+
+.form-alignment {
+  text-align: left;
+}

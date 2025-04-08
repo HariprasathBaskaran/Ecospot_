@@ -1,0 +1,58 @@
+.cart--heading {
+  font-size: 1.4rem !important;
+  font-weight: 500;
+  padding: 1rem 0;
+}
+
+.cart-container {
+  margin-top: 5.2rem !important;
+}
+
+.cart--title {
+  font-size: 1.4rem !important;
+  font-weight: 600;
+}
+
+.cart--type {
+  font-size: 1.1rem !important;
+}
+
+.cart--description {
+  font-size: 1.2rem !important;
+}
+
+.cart--price {
+  font-size: medium !important;
+  font-weight: 700;
+}
+
+.cart-summary {
+  font-size: 1.4rem !important;
+  font-weight: 500 !important;
+
+  /* padding: 1rem 0 0 0.8rem; */
+}
+
+.summary--subTitle {
+  font-size: 1.4rem;
+  /* font-weight: 600;  */
+}
+
+.summary--subTitle-values {
+  display: inline-block;
+  /* width: 18rem; */
+  font-weight: 500 !important;
+}
+
+.cart--summary-details {
+  padding-left: 0.8rem !important;
+}
+
+.cart--delete-btn {
+  background-color: #fff;
+  border: none;
+}
+
+.icon--size {
+  font-size: 2.2rem !important;
+}

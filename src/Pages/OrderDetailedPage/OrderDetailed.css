@@ -1,0 +1,28 @@
+/* Hide the default Bootstrap accordion arrow for all items */
+.accordion-button::after {
+  display: none !important;
+}
+
+.main-container {
+  font-size: 1.2rem !important;
+  text-align: left;
+  margin-top: 5rem;
+}
+
+.accordion-text {
+  font-size: 1.4rem !important;
+  font-weight: 500 !important;
+  color: rgba(0, 0, 0, 0.786) !important;
+}
+
+.accordian--body-title {
+  font-size: 1.1rem !important;
+}
+
+.payment {
+  margin-bottom: 1rem !important;
+}
+
+.btn-alignment {
+  font-size: 1.2rem !important;
+}

@@ -1,0 +1,16 @@
+.testimonial-container {
+  width: 26rem;
+  padding: 5rem 2rem;
+  /* height: 30rem; */
+}
+
+.reversed-icon {
+  /* transform: scaleX(-1);  */
+  transform: scaleY(-1);
+  /* transform: scaleX(-1); */
+}
+
+.testimonial--review {
+  font-size: 1.6rem;
+  justify-content: space-around;
+}

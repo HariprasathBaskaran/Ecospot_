@@ -1,0 +1,24 @@
+.company-logo {
+  height: 4rem;
+}
+
+.nav--content li a,
+.nav--content li span {
+  font-size: 1.4rem;
+  margin-right: 1rem;
+}
+
+.nav--fontSize {
+  font-size: 2rem;
+}
+
+.btn-sizing {
+  padding: 4px 8px;
+}
+
+nav a.active {
+  text-decoration: none;
+  /* font-weight: bold; */
+  color: #d5a26f !important;
+  font-weight: 600;
+}
