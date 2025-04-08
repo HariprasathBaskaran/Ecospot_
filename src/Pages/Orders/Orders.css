@@ -1,0 +1,36 @@
+.orders-container {
+  text-align: left;
+  margin-top: 5.2rem;
+}
+
+.orders--heading {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.orders--title {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.orders--type {
+  font-size: 1.1rem;
+}
+
+.orders--description {
+  font-size: 1.2rem;
+}
+
+.orders--price {
+  font-size: medium;
+  font-weight: 700;
+}
+
+.delivery--heading {
+  font-size: 1.1rem;
+}
+
+.delivery--details {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+}

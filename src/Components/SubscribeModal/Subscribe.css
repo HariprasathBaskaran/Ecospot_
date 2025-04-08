@@ -1,0 +1,21 @@
+.subscribe-container {
+  width: 50rem;
+  padding: 2rem 6rem;
+  position: absolute;
+  top: -5rem;
+  right: 20rem;
+  z-index: 1;
+}
+
+.subscribe--heading {
+  font-size: 2.2rem;
+  font-weight: 500;
+}
+
+.subscribe--content {
+  font-size: 1.2rem;
+}
+
+.subscribe--input {
+  height: 3rem;
+}

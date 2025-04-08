@@ -1,0 +1,47 @@
+.footer-container {
+  padding: 5rem 5rem;
+  position: relative;
+}
+
+.footer--logo {
+  height: 4rem;
+}
+
+.footer--menu-heading {
+}
+
+.test ul {
+  list-style: none;
+  text-align: left;
+  justify-content: center;
+}
+
+.test ul li {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.test ul li:first-child {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.contact--alignment ul li {
+  margin-left: -1.6rem;
+}
+
+.contact--alignment ul li:first-child {
+  margin-left: 0rem;
+}
+
+.contact-info {
+  margin-left: 0.5rem;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}

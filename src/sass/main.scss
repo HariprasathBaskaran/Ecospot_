@@ -1,0 +1,20 @@
+// custom variables
+$primary: #6f7e3e;
+$secondary: #d5a26f;
+$link-color: #6f7e3e;
+// import the function and variables
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+$custom-theme-colors: (
+  "altlight": #fafff1,
+  "bglight": #d3cfc2,
+  "card--title": #086617,
+  "testimonial-bg": #74a55d,
+  "lighttext": #222222,
+  "textcolor": #515151,
+);
+
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+// import bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
